@@ -23,7 +23,7 @@ def register(request):
             # user.set_password(user.password)
             # user.save(commit=True)
             # profile_form.save()
-
+        else :
     else :
         print("False")
     #
